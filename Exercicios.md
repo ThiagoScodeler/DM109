@@ -1,7 +1,17 @@
+# Trabalho DM109 - Big Data e Análise de Dados
+
+Trabalho entregue como forma de avaliação da Disciplina DM109 do curso de especialização em [Desenvolvimento de Aplicações para Dispositivos Móveis e Cloud Computing](http://www.inatel.br/pos/desenvolvimento-de-aplicacoes-para-dispositivos-moveis-e-cloud-computing-srs) no [Inatel](http://inatel.br/home/).
+
+**Alunos:**
+
+* Rafael William da Silva
+* Thiago Scodeler
+
 #### Questão 1
 
 **- Faça uma aplicação para processamento de streams em tempo real utilizando o Apache Flink. Utilize o TORCS para gerar os dados de telemetria e o Apache Kafka como broker. Considere utilizar o conteúdo da aula de Big Data para te orientar. A aplicação deverá imprimir na tela, para cada carro, quantas vezes houve troca de marcha, dentro de um intervalo de 3 segundos. Utilize a aplicação "TV Dashboard", onde calculamos a velocidade média de cada carro, como ponto de partida. Se necessário, o código fonte desta aplicação está em <https://github.com/dmazzer/kafka-flink-101>**
 
+Resposta: <https://github.com/ThiagoScodeler/DM109>
 
 #### Questão 2
 
